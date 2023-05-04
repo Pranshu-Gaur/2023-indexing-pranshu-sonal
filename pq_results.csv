@@ -1,0 +1,5 @@
+﻿Value_of_k,16,32,64,128,256
+Codebook_Build_Time(s),26.99,32.62,44.26,58.7,93.31
+PQ_Code_Build_Time(s),1.76,2.24,3.17,5.29,7.73
+Total_Build_Time(s),28.75,34.86,47.43,63.99,101.04
+Total_Search_Time(s),5.48,5.46,5.53,5.56,6.2

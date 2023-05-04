@@ -1,4 +1,3 @@
-
 import scann
 
 import numpy as np
@@ -11,10 +10,10 @@ def normalize_dataset(dataset):
   return normalized_dataset
 
 def build_scann_searcher(dataset, queries):
-  k = [1]
-  print ('num_leaves\ttouch\tbuild_time\tsearch_time')
+  k = [1,2,4,8]
+  print ('leaf\ttouch\tbuild_t\tsearch_t')
   for i in k:
-    for j in range(1,3):
+    for j in range(1,11):
       s1 = time.process_time()
       searcher = scann.scann_ops_pybind.builder(normalize_dataset(dataset), 10, "dot_product").tree(
             num_leaves=1000*i, num_leaves_to_search=100*j, training_sample_size=1000000).score_ah(
