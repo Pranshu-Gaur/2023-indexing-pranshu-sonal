@@ -14,7 +14,7 @@ _This is a repository to implement the vector search algorithms on the Sift1M da
 * UGP_Presentation_Pranshu : Presentation of UGP by Pranshu 
 * Vector_Search_Algorithms_Report_Pranshu : Signed Report of UGP by Pranshu 
 
-## How to run ?
+## Execution
 * Step 1: Clone the Repository
 * Step 2: Open Google Colab and install all the necessary libraries
 * Step 3: Upload all the cloned files, open 'BlackBox.ipynb'
