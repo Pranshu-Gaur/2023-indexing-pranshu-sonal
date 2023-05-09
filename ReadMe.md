@@ -1,4 +1,4 @@
-#### `Author : Pranshu Gaur & Sonal Agarwal`
+#### `Author : Pranshu Gaur & Sonal Agrawal`
 _This is a repository to implement the vector search algorithms on the Sift1M data_
 
 ## Files 
@@ -13,6 +13,8 @@ _This is a repository to implement the vector search algorithms on the Sift1M da
 * pq_results : Results of pq on different parameters 
 * UGP_Presentation_Pranshu : Presentation of UGP by Pranshu 
 * Vector_Search_Algorithms_Report_Pranshu : Signed Report of UGP by Pranshu 
+* UGP_Presentation_Sonal Agrawal : Presentation of UGP by Sonal 
+* UGP_Report_Sonal Agrawal : Report of UGP by Sonal
 
 ## Execution
 * Step 1: Clone the Repository
