@@ -1,4 +1,4 @@
-#### `Author : Pranshu Gaur`
+#### `Author : Pranshu Gaur & Sonal Agarwal`
 _This is a repository to implement the vector search algorithms on the Sift1M data_
 
 ## Files 
